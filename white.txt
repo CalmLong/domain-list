@@ -6,3 +6,5 @@ click.simba.taobao.com
 # #3
 163.com
 www.163.com
+# #4
+down.360safe.com

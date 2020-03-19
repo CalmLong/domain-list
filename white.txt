@@ -8,3 +8,5 @@ click.simba.taobao.com
 www.163.com
 # #4
 down.360safe.com
+# #8
+puui.qpic.cn

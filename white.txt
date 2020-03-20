@@ -10,3 +10,5 @@ www.163.com
 down.360safe.com
 # #8
 puui.qpic.cn
+# #9
+huatuo.weiyun.com

@@ -12,3 +12,5 @@ down.360safe.com
 puui.qpic.cn
 # #9
 huatuo.weiyun.com
+# #10
+redirect.simba.taobao.com

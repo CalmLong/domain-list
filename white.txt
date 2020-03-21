@@ -16,3 +16,5 @@ huatuo.weiyun.com
 s.click.taobao.com
 acs.m.taobao.com
 mclick.simba.taobao.com
+# #11
+pingjs.qq.com

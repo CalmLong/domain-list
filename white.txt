@@ -13,4 +13,6 @@ puui.qpic.cn
 # #9
 huatuo.weiyun.com
 # #10
-redirect.simba.taobao.com
+s.click.taobao.com
+acs.m.taobao.com
+mclick.simba.taobao.com

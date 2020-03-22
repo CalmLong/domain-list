@@ -18,3 +18,5 @@ acs.m.taobao.com
 mclick.simba.taobao.com
 # #11
 pingjs.qq.com
+# #12
+6mwy.app.link

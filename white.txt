@@ -21,3 +21,6 @@ pingjs.qq.com
 # #12
 app.link
 6mwy.app.link
+# #13
+freedownloadmanager.org
+www.freedownloadmanager.org

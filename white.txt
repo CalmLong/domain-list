@@ -19,4 +19,5 @@ mclick.simba.taobao.com
 # #11
 pingjs.qq.com
 # #12
+app.link
 6mwy.app.link

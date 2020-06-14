@@ -33,3 +33,5 @@ maxmind.com
 # #17
 www.ojrq.net
 ojrq.net
+# #18
+d3g.qq.com

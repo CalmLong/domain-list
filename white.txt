@@ -35,3 +35,5 @@ www.ojrq.net
 ojrq.net
 # #18
 d3g.qq.com
+# #19
+dyn.ithome.com

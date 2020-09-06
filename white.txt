@@ -37,5 +37,5 @@ ojrq.net
 d3g.qq.com
 # #19
 dyn.ithome.com
-# #20
-u2717412.ct.sendgrid.net
+# #21
+a.ssl.msdk.qq.com

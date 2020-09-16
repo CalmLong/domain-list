@@ -39,3 +39,5 @@ d3g.qq.com
 dyn.ithome.com
 # #21
 a.ssl.msdk.qq.com
+# #22
+msdk.qq.com

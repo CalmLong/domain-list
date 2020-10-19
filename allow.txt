@@ -41,3 +41,5 @@ dyn.ithome.com
 a.ssl.msdk.qq.com
 # #22
 msdk.qq.com
+# #23
+ads.google.com

@@ -43,3 +43,5 @@ a.ssl.msdk.qq.com
 msdk.qq.com
 # #23
 ads.google.com
+# #24
+google.qualtrics.com

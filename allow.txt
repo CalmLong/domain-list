@@ -45,3 +45,7 @@ msdk.qq.com
 ads.google.com
 # #24
 google.qualtrics.com
+# #25
+mid.hao123.com
+cpucdn.baidu.com
+publish-pic-cpu.baidu.com

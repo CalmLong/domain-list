@@ -49,3 +49,5 @@ google.qualtrics.com
 mid.hao123.com
 cpucdn.baidu.com
 publish-pic-cpu.baidu.com
+# #26
+cnnic.net.cn

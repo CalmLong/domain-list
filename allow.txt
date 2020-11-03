@@ -51,3 +51,5 @@ cpucdn.baidu.com
 publish-pic-cpu.baidu.com
 # #26
 cnnic.net.cn
+# #27
+monitor.dnspod.cn

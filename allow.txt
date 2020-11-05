@@ -53,3 +53,5 @@ publish-pic-cpu.baidu.com
 cnnic.net.cn
 # #27
 monitor.dnspod.cn
+# #28
+123.sogou.com

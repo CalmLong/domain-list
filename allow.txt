@@ -55,3 +55,6 @@ cnnic.net.cn
 monitor.dnspod.cn
 # #28
 123.sogou.com
+# 29
+www.henghost.com
+henghost.com

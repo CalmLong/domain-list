@@ -58,3 +58,5 @@ monitor.dnspod.cn
 # 29
 www.henghost.com
 henghost.com
+# #30
+magiskmanager.com

@@ -63,3 +63,5 @@ magiskmanager.com
 # #31
 www.hao123.com
 hao123.com
+#32
+fonts.gstatic.com

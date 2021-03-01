@@ -63,5 +63,8 @@ magiskmanager.com
 # #31
 www.hao123.com
 hao123.com
-#32
+# #32
 fonts.gstatic.com
+# #33
+edge-enterprise.activity.windows.com
+edge.activity.windows.com

@@ -68,3 +68,5 @@ fonts.gstatic.com
 # #33
 edge-enterprise.activity.windows.com
 edge.activity.windows.com
+# #34
+appdownload.alicdn.com

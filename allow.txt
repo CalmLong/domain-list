@@ -70,3 +70,5 @@ edge-enterprise.activity.windows.com
 edge.activity.windows.com
 # #34
 appdownload.alicdn.com
+# #35
+rescdn.qqmail.com

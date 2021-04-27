@@ -13,3 +13,5 @@ domain:gz-data.com
 full:m1.ad.10010.com
 # #40
 full:weaveradrenaline.com
+# #41
+full:log.tbs.qq.com

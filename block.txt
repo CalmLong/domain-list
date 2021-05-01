@@ -15,3 +15,5 @@ full:m1.ad.10010.com
 full:weaveradrenaline.com
 # #41
 full:log.tbs.qq.com
+# #42
+full:log3-misc-hl.amemv.com

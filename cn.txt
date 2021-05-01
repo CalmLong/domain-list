@@ -3,6 +3,15 @@ full:openlocation-drcn.platform.dbankcloud.com
 full:grs.dbankcloud.com
 full:service-cn.hwccpc.com
 full:adsmind.gdtimg.com
+full:api3-normal-c-hl.amemv.com
+full:api5-normal-c-hl.amemv.com
+full:api5-core-c-hl.amemv.com
+full:api100-core-quic-hl.amemv.com
+full:api100-normal-quic-hl.amemv.com
+full:search3-search-hl.amemv.com
+full:search100-search-quic-hl.amemv.com
+full:webcast5-core-c-hl.amemv.com
+full:webcast5-normal-c-hl.amemv.com
 domain:weathercn.com
 domain:qvkanwen.com
 domain:ilouis.cn

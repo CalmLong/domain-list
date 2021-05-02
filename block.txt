@@ -7,10 +7,6 @@ full:cs02-pps-drcn.dbankcdn.com
 full:amppic-drcn.dbankcdn.com
 # #37
 full:assets.msn.com
-# #38
-domain:gz-data.com
-# #39
-domain:ad.10010.com
 # #40
 full:weaveradrenaline.com
 # #41
@@ -18,3 +14,7 @@ full:log.tbs.qq.com
 # #42
 full:log3-misc-hl.amemv.com
 full:log5-misc-hl.amemv.com
+# #38
+domain:gz-data.com
+# #39
+domain:ad.10010.com

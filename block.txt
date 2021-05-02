@@ -10,7 +10,7 @@ full:assets.msn.com
 # #38
 domain:gz-data.com
 # #39
-full:m1.ad.10010.com
+domain:ad.10010.com
 # #40
 full:weaveradrenaline.com
 # #41

@@ -18,6 +18,8 @@ full:log5-misc-hl.amemv.com
 full:log-stats.weathercn.com
 # #43
 full:mime.baidu.com
+# #45
+full:h.trace.qq.com
 # #38
 domain:gz-data.com
 # #39

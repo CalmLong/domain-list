@@ -14,6 +14,8 @@ full:log.tbs.qq.com
 # #42
 full:log3-misc-hl.amemv.com
 full:log5-misc-hl.amemv.com
+# #44
+full:log-stats.weathercn.com
 # #43
 full:mime.baidu.com
 # #38

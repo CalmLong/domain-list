@@ -16,3 +16,4 @@ domain:weathercn.com
 domain:qvkanwen.com
 domain:ilouis.cn
 domain:dnsenc.com
+domain:gov.cn

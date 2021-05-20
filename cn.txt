@@ -12,6 +12,7 @@ full:search3-search-hl.amemv.com
 full:search100-search-quic-hl.amemv.com
 full:webcast5-core-c-hl.amemv.com
 full:webcast5-normal-c-hl.amemv.com
+full:cn.pool.ntp.org
 domain:weathercn.com
 domain:qvkanwen.com
 domain:ilouis.cn

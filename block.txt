@@ -1,5 +1,4 @@
 # #36
-full:browsercfg-drcn.cloud.hicloud.com
 full:dnkeeper.hicloud.com
 full:browserr-drcn.dbankcdn.com
 full:logbak.hicloud.com

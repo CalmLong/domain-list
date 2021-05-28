@@ -4,8 +4,6 @@ full:browserr-drcn.dbankcdn.com
 full:logbak.hicloud.com
 full:cs02-pps-drcn.dbankcdn.com
 full:amppic-drcn.dbankcdn.com
-# #37
-full:assets.msn.com
 # #40
 full:weaveradrenaline.com
 # #41

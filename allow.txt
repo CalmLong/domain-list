@@ -72,3 +72,6 @@ edge.activity.windows.com
 appdownload.alicdn.com
 # #35
 rescdn.qqmail.com
+# #46
+mapopen-website-wiki.bj.bcebos.com
+hm.baidu.com

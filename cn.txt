@@ -18,3 +18,4 @@ domain:qvkanwen.com
 domain:ilouis.cn
 domain:dnsenc.com
 domain:gov.cn
+domain:dnspod.cn
